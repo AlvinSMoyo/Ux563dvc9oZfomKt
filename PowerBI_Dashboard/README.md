@@ -1,2 +1,5 @@
-This folder contains the Power BI report for the Term Deposit Marketing Campaign.
+## 📊 Power BI Dashboard
+
+Explore customer behavior and campaign insights visually:
+👉 [Term_Deposit_Marketing_Dashboard.pbix](PowerBI_Dashboard/Term_Deposit_Marketing_Dashboard.pbix)
 
